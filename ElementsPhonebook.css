@@ -1,0 +1,27 @@
+.hakuvirhe {
+    margin: 4px 0;
+    font-size: 18px;
+}
+
+.listaus {
+}
+
+.nimi {
+    font-size: 14px;
+}
+
+.numero {
+    font-size: 14px;
+}
+
+.poistonappi {
+    font-size: 12px;
+    background-image: ;
+    border-radius: 5px;
+    border: 2px dotted black;
+}
+
+.grid-container {
+    display: grid;
+}
+
